@@ -1,0 +1,21 @@
+body{
+    background-image:url("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rawpixel.com%2Fsearch%2Fmusic%2520background&psig=AOvVaw2Po9faTWJ2ZTPmJ58F23ah&ust=1651321374840000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCC8NOhufcCFQAAAAAdAAAAABAD");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    font-family: 'Shadows Into Light', cursive;
+    font-size: 20px;
+}
+
+#HOO,#d11,#d22{
+    background-color: darkgray;
+    color: white;
+}
+
+#playy{
+    background-color: darkgray;
+    border-color: darkgray;
+    font-size: large;
+    font-family: 'Shadows Into Light', cursive;
+}
